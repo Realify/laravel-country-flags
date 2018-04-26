@@ -6,14 +6,14 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-A Laravel 5.5 wrapper for the [stidges/country-flags](https://github.com/stidges/country-flags) package.
+A Laravel 5.5+ wrapper for the [stidges/country-flags](https://github.com/stidges/country-flags) package.
 
 ## Installation
 
 You can install the package via Composer:
 
 ``` bash
-$ composer require stidges/laravel-country-flags
+$ composer require realify/laravel-country-flags
 ```
 
 The Laravel facade and service provider are registered through auto-discovery, so you can start using it out of the box!
